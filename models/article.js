@@ -14,5 +14,5 @@ module.exports = function(sequelize, DataTypes) {
   });
   return Article;
 };
-//declared a model called Article
+//declared a model called "Article"
 //model is like a blueprint
